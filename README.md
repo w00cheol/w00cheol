@@ -37,7 +37,7 @@
   
 🌥 Cloud / Deploy : Docker, AWS EC2, GCP
   
-🎸 ETC : RestAPI, RaspberryPI 4, socket
+🎸 ETC : RestAPI, RaspberryPI 4, Socket, AWS S3
   
 🙌 I hereby certify the above statements to be true and correct in every detail
    <br/>
