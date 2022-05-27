@@ -43,7 +43,6 @@
    <br/>
 <br/><br/>
 
-| <a href="https://github.com/w00cheol/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=w00cheol&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/w00cheol/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w00cheol&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/w00cheol/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=w00cheol&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a><a href="https://github.com/w00cheol/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w00cheol&layout=compact&theme=buefy&hide_border=true" /></a>
  
 </div>
