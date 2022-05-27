@@ -24,12 +24,18 @@
   
  <!--기술스택-->
    <h3>:four_leaf_clover:Skills </h3>
-  * Language: Korean(Native), English(Inter), Python, Javascript, Java, C, C++
-  * Operating System: Mac, Ubuntu, Windows
+   * Language: Korean(Native), English(Inter), Python, Javascript, Java, C, C++
+  
+   * Operating System: Mac, Ubuntu, Windows
+  
    * Server/Framework: Nodejs, Spring
+  
    * Database: MySQL, MongoDB
+  
    * Deploy: Docker, AWS EC2, GCP
+  
    * ETC: RestAPI, RaspberryPI 4, socket
+  
   🙌 I hereby certify the above statements to be true and correct in every detail
    <br/>
 <br/><br/>
