@@ -32,7 +32,7 @@
   
 📚 Database: MySQL, MongoDB
   
-📡 Deploy: Docker, AWS EC2, GCP
+🌥 Cloud / Deploy: Docker, AWS EC2, GCP
   
 🎸 ETC: RestAPI, RaspberryPI 4, socket
   
