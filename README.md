@@ -11,8 +11,6 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w00cheol&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-  
   ###  👋 Woocheol Kwon 🐣
   
 🌱 백엔드 개발자를 꿈꾸는 대학생입니다
@@ -24,7 +22,8 @@
   
  <!--기술스택-->
    <h3>:four_leaf_clover:Skills </h3>
-   * Language: Korean(Native), English(Inter), Python, Javascript, Java, C, C++
+  
+   Language: Korean(Native), English(Inter), Python, Javascript, Java, C, C++
   
    * Operating System: Mac, Ubuntu, Windows
   
@@ -39,5 +38,9 @@
   🙌 I hereby certify the above statements to be true and correct in every detail
    <br/>
 <br/><br/>
+
+| <a href="https://github.com/w00cheol/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=w00cheol&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/w00cheol/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w00cheol&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
  
 </div>
