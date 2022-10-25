@@ -16,17 +16,17 @@
  <!--기술스택-->
 <h3>:four_leaf_clover:Skills </h3>
   
-💬 Language : Javascript, Python, Java, C, C++, 🇰🇷 Korean(Native), 🇺🇸 English(Inter)
+💬 Language : Javascript, Python, Java, C, 🇰🇷 Korean(Native), 🇺🇸 English(Inter)
   
-🖥 Operating System : Mac, Ubuntu, Windows
+🖥 Operating System : Mac, Linux(Ubuntu), Windows
   
 🏗 Framework : Nodejs, Spring
   
 📚 Database : MySQL, MongoDB
   
-🌥 Cloud / Deploy : Docker, AWS EC2, GCP
+🌥 Cloud / Deploy : Docker, AWS EC2
   
-🎸 ETC : RestAPI, RaspberryPI 4, Socket, AWS S3
+🎸 ETC : RestAPI, RaspberryPI, Socket, AWS S3
   
 🙌 I hereby certify the above statements to be true and correct in every detail
    <br/>
