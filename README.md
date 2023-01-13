@@ -16,11 +16,11 @@
  <!--기술스택-->
 <h3>:four_leaf_clover:Skills </h3>
   
-💬 Language : Javascript, Python, Java, C, 🇰🇷 Korean(Native), 🇺🇸 English(Inter)
+💬 Language : Javascript, Python, C, 🇰🇷 Korean(Native), 🇺🇸 English(Inter)
   
 🖥 Operating System : Mac, Linux(Ubuntu), Windows
   
-🏗 Framework : Nodejs, Spring
+🏗 Framework : Nodejs, Django
   
 📚 Database : MySQL, MongoDB
   
