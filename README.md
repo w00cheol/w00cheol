@@ -2,6 +2,8 @@
   
   ###  🐣 권우철 (Knox Woocheol Kwon) 🐣
   
+ https://www.newswire.co.kr/newsRead.php?no=958626
+  
 🌱 백엔드 개발자를 꿈꾸는 대학생입니다 🌱
   
 👯 동료와 협업하는 것을 좋아합니다 👯
@@ -16,17 +18,17 @@
  <!--기술스택-->
 <h3>:four_leaf_clover:Skills </h3>
   
-💬 Language : Javascript, Python, C, 🇰🇷 Korean(Native), 🇺🇸 English(Inter)
+💬 Language : Java, Python, JavaScript, C, 🇺🇸 English(Intermediate), 🇰🇷 Korean(Native)
   
-🖥 Operating System : Mac, Linux(Ubuntu), Windows
+🖥 Operating System : Mac, Linux(Ubuntu)
   
-🏗 Framework : Nodejs, Django
+🏗 Framework : Nodejs, Spring
   
 📚 Database : MySQL, MongoDB
   
 🌥 Cloud / Deploy : Docker, AWS EC2
   
-🎸 ETC : RestAPI, RaspberryPI, Socket, AWS S3
+🎸 ETC : Network, RaspberryPI, Socket, AWS S3
   
 🙌 I hereby certify the above statements to be true and correct in every detail
    <br/>
