@@ -18,15 +18,15 @@
  <!--기술스택-->
 <h3>:four_leaf_clover:Skills </h3>
   
-💬 Language : Java, Python, JavaScript, C, 🇺🇸 English(Intermediate), 🇰🇷 Korean(Native)
+💬 Language : Java, Python, Go, JavaScript, C, 🇺🇸 English(Intermediate), 🇰🇷 Korean(Native)
   
-🖥 Operating System : Mac, Linux(Ubuntu)
+🖥 Operating System : Mac, Ubuntu
   
-🏗 Framework : Nodejs, Spring
+🏗 Server/Framework : Node.js, Spring, Gin
   
 📚 Database : MySQL, MongoDB
   
-🌥 Cloud / Deploy : Docker, AWS EC2
+🌥 Cloud / Deploy : Docker, Jenkins, AWS EC2
   
 🎸 ETC : Network, RaspberryPI, Socket, AWS S3
   
