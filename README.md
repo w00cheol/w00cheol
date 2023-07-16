@@ -1,12 +1,10 @@
 <div align="center">
   
-  ###  🐣 권우철 (Knox Woocheol Kwon) 🐣
+  ###  Knox Woocheol Kwon
   
- https://www.newswire.co.kr/newsRead.php?no=958626
+ [뉴스와이어](https://www.newswire.co.kr/newsRead.php?no=958626)
   
-🌱 백엔드 개발자를 꿈꾸는 대학생입니다 🌱
-  
-👯 동료와 협업하는 것을 좋아합니다 👯
+🌱 Backend Developer
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fw00cheol%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kw8384@gmail.com)](mailto:kw8384@gmail.com)
@@ -16,21 +14,19 @@
   ---
   
  <!--기술스택-->
-<h3>:four_leaf_clover:Skills </h3>
+<h3>:four_leaf_clover: Skills </h3>
   
-💬 Language : Java, Python, Go, JavaScript, C, 🇺🇸 English(Intermediate), 🇰🇷 Korean(Native)
+💬 Language : 🇺🇸 English(Intermediate), 🇰🇷 Korean(Native)
   
-🖥 Operating System : Mac, Ubuntu
+🖥 Operating System : Mac, Linux
   
-🏗 Server/Framework : Node.js, Spring, Gin
+🏗 Server/Framework : SpringBoot, Gin, Node.js
   
 📚 Database : MySQL, MongoDB
   
-🌥 Cloud / Deploy : Docker, Jenkins, AWS EC2
+🌥 Cloud / Deploy : Docker, Jenkins, AWS
   
-🎸 ETC : Network, RaspberryPI, Socket, AWS S3
-  
-🙌 I hereby certify the above statements to be true and correct in every detail
+🎸 ETC : Network, RaspberryPI, Socket, GPIO
    <br/>
 <br/><br/>
 
